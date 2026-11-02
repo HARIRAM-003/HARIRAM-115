@@ -83,3 +83,24 @@ console.log("Building real-world applications 🚀");
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIRAM-003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Repository |
+| :--- | :--- | :--- | :--- |
+| **Agro-Assist** | TypeScript, React | Smart farming web portal for crop recommendations, weather updates, and market prices | [Explore Repo](https://github.com/HARIRAM-003/Agro-Assist) |
+| **AI Interview Simulator** | TypeScript, Node.js | Automated AI interviewer platform with real-time evaluation and feedback | [Explore Repo](https://github.com/HARIRAM-003/AI_Interveiw_simulator) |
+| **E-Commerce Web** | JavaScript, CSS, HTML | Full-fledged responsive online store with shopping cart and product catalog | [Explore Repo](https://github.com/HARIRAM-003/E_commerce_web) |
+| **AI Python Suite** | Python, Machine Learning | Python-based artificial intelligence scripts and predictive modeling tools | [Explore Repo](https://github.com/HARIRAM-003/AI) |
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:hariramv171@gmail.com"><img src="https://img.shields.io/badge/Email-hariramv171%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/HARIRAM-003"><img src="https://img.shields.io/badge/GitHub-HARIRAM--003-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
