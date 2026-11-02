@@ -1,0 +1,12 @@
+{
+  "name": "@hariram/developer-toolkit",
+  "version": "1.0.0",
+  "description": "Essential developer utilities and diagnostic toolkit",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/**/*.test.js"
+  },
+  "author": "HARIRAM <hariramv171@gmail.com>",
+  "license": "MIT"
+}
